@@ -1,17 +1,17 @@
 {
-  "name": "language-scilab",
+  "name": "language-wp",
   "version": "0.1.0",
-  "description": "Scilab language support in Atom",
+  "description": "Wordpress Visual Composer language support in Atom",
   "engines": {
     "atom": "*"
   },
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/JeremyHeleine/language-scilab.git"
+    "url": "https://github.com/azachar/language-wp.git"
   },
   "bugs": {
-    "url": "https://github.com/JeremyHeleine/language-scilab/issues"
+    "url": "https://github.com/azachar/language-wp/issues"
   },
   "license": "MIT"
 }

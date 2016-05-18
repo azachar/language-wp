@@ -1,3 +1,3 @@
-# language-scilab package
+# language-wp package
 
-This package adds the support of Scilab language in Atom, with syntax highlighting.
+This package adds the support of WordPress Visual Composer language in Atom, with syntax highlighting.
