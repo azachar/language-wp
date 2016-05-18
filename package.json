@@ -1,6 +1,6 @@
 {
   "name": "language-wp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wordpress Visual Composer language support in Atom",
   "engines": {
     "atom": "*"
